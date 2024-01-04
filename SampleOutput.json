@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "stephanie halasz, Christian Edwards",
+            "title": "Russian opposition leader Alexey Navalny missing from prison, says his team - CNN",
+            "description": "Russian opposition leader Navalny missing from prison, says his team",
+            "url": "https://www.cnn.com/2023/12/11/europe/russian-opposition-leader-alexey-navalny-missing-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230622113958-01-navalny-court-062223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-11T16:29:00Z",
+            "content": "Lawyers for Alexey Navalny said Monday they have lost contact with the jailed Russian opposition leader, who was believed to be imprisoned in a penal colony about 150 miles east of Moscow, and his wh… [+4184 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Amudalat Ajasa",
+            "title": "What to know about the Geminids, the best meteor show of the year - The Washington Post",
+            "description": "The Geminids meteor shower peaks in 2023 on the evening of Dec. 13 into Dec. 14 and can be seen for more than a week after that. Here’s what makes it so special.",
+            "url": "https://www.washingtonpost.com/weather/2023/12/11/geminids-meteor-shower-watch/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AQMM7HNVTIF24YOG6U6MXOWPE.jpg&w=1440",
+            "publishedAt": "2023-12-11T16:15:19Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nSnowflakes wont be the only tiny particles brushing through the night sky in mid-December. Falling ice crystals will be accompanied by… [+4605 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Luis Martinez",
+            "title": "Air Force disciplines 15 airmen in investigation of accused leaker Jack Teixeira - ABC News",
+            "description": "The other service members failed take proper action, the inspector general said.",
+            "url": "https://abcnews.go.com/Politics/air-force-disciplines-15-airmen-jack-teixeira-leak/story?id=105548484",
+            "urlToImage": "https://i.abcnewsfe.com/a/b8863153-0b2d-4ef9-89dc-6b7eae7536ef/teixeira-flt-ht-ps-230413_1681421733401_hpMain_5_16x9.jpg?w=992",
+            "publishedAt": "2023-12-11T15:56:15Z",
+            "content": "Fifteen airmen have been disciplined -- including with removal of their command -- for failing to take proper action when they became aware of accused leaker Jack Teixeira's intelligence-seeking acti… [+3839 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe",
+            "title": "Deadly tornadoes leave thousands displaced or without power in Tennessee - CNN",
+            "description": "Thousands of Tennesseans are displaced or facing prolonged power outages after a series of powerful tornadoes and storms tore through the state over the weekend, shredding hundreds of homes and killing at least six people, including a mother and her toddler.",
+            "url": "https://www.cnn.com/2023/12/11/weather/tennessee-tornadoes-nashville-damage-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231210130355-13-tennessee-weather-12-10-2023-madison.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-11T15:56:00Z",
+            "content": "Thousands of Tennesseans are displaced or facing prolonged power outages after a series of powerful tornadoes and storms tore through the state over the weekend, shredding hundreds of homes and killi… [+5414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Reactions to Chiefs offensive offsides penalty late in fourth quarter of Week 14 - NFL",
+            "description": "'GMFB' reacts to Chiefs offensive offsides penalty late in fourth quarter of Week 14Watch live local and primetime games, NFL RedZone, and NFL Network on Plu...",
+            "url": "https://www.youtube.com/watch?v=h3b2agshGMk",
+            "urlToImage": "https://i.ytimg.com/vi/h3b2agshGMk/maxresdefault.jpg",
+            "publishedAt": "2023-12-11T15:44:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Occidental Petroleum to expand Permian ops with $12 billion deal for CrownRock - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/deals/occidental-petroleum-buy-crownrock-12-bln-deal-2023-12-11/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-11T15:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Josh Dinner",
+            "title": "SpaceX Falcon Heavy rocket to launch secretive X-37B space plane today after delay - Space.com",
+            "description": "Liftoff is scheduled for 8:14 p.m. ET on Monday (Dec. 11).",
+            "url": "https://www.space.com/spacex-space-force-x-37b-ot7-launch-webcast",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HSZoCx4RuMyBPKXMnsWTFD-1200-80.jpg",
+            "publishedAt": "2023-12-11T15:24:57Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Golden Globe nominations: Barbie and Oppenheimer lead 2024 contenders - BBC.com",
+            "description": "The ceremony honouring the best in film and TV will take place on 7 January in Los Angeles.",
+            "url": "https://www.bbc.com/news/entertainment-arts-67646600",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10AAB/production/_131976286_crrev-1-bar-tt3-0059_high_res_jpeg.jpg",
+            "publishedAt": "2023-12-11T15:16:00Z",
+            "content": "By Steven McIntosh and Yasmin RufoEntertainment reporters\r\nBarbie, starring Margot Robbie and Ryan Gosling, is the biggest box office hit of 2023\r\nBarbie and Oppenheimer lead the nominations at the G… [+7406 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOSH BOAK",
+            "title": "Biden administration says New Hampshire computer chip plant the first to get funding from CHIPS law - The Associated Press",
+            "description": "The Biden administration is announcing the first allocation of incentives from last year’s bipartisan CHIPS and Science Act. It will provide $35 million to BAE Systems to increase production at a New Hampshire factory making computer chips for military aircra…",
+            "url": "https://apnews.com/article/chips-raimondo-biden-semiconductor-new-hampshire-b7d2c6b1be718cfef3cb9dadc3df2fd6",
+            "urlToImage": "https://dims.apnews.com/dims4/default/706266a/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcf%2Faf%2Fc4fc20eaeb114586cffbfd815716%2F0ea992b6276e41e2897f9e7bf03c61e5",
+            "publishedAt": "2023-12-11T15:08:00Z",
+            "content": "WASHINGTON (AP) The Biden administration announced the first of many coming federal investments in computer chip production, saying Monday that it would provide $35 million for BAE Systems to increas… [+2917 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Lexi Lonas",
+            "title": "Several hundred faculty members voice support for Harvard president - The Hill",
+            "description": "Several hundred Harvard faculty members signed a petition in support of school President Claudine Gay amid calls for her resignation over comments about Jewish genocide at a House hearing last week.   The two-sentence petition toward Harvard Corporation, a co…",
+            "url": "https://thehill.com/homenews/education/4353546-several-hundred-faculty-members-voice-support-for-harvard-president/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/12/d6e238d5878a487f8993f631f4b745f6.jpg?w=1280",
+            "publishedAt": "2023-12-11T14:59:00Z",
+            "content": "Several hundred Harvard faculty members signed a petition in support of school President Claudine Gay amid calls for her resignation over comments about Jewish genocide at a House hearing last week. … [+1881 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Devan Cole",
+            "title": "Supreme Court lets stand Washington state law barring conversion therapy for minors - CNN",
+            "description": "The Supreme Court on Monday let stand a Washington state law prohibiting licensed health care professionals from practicing “conversion therapy” – a scientifically discredited practice intended to change a person’s sexual orientation or gender identity – as i…",
+            "url": "https://www.cnn.com/2023/12/11/politics/supreme-court-washington-state-conversion-therapy/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231128132108-02-us-supreme-court-building-06232023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-11T14:51:00Z",
+            "content": "The Supreme Court on Monday let stand a Washington state law prohibiting licensed health care professionals from practicing conversion therapy a scientifically discredited practice intended to change… [+2336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2023 NFL Week 14 winners and losers: Bills' playoff hopes, Bears' Justin Fields are back in business - CBS Sports",
+            "description": "A roundup of this weekend's biggest studs and duds",
+            "url": "https://www.cbssports.com/nfl/news/2023-nfl-week-14-winners-and-losers-bills-playoff-hopes-bears-justin-fields-are-back-in-business/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/12/10/07f6447e-2842-4a05-a080-bd4670d4a38f/thumbnail/1200x675/2ab2f909d69ce9417f856def2ccc2650/fieldswin.jpg",
+            "publishedAt": "2023-12-11T14:29:00Z",
+            "content": "The latest wave of NFL action has ushered in plenty of entertainment. The Rams and Ravens went to overtime, where a walk-off punt return helped keep a particular team in good standing for the playoff… [+4130 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "A tourist lost an $800K diamond ring in the Ritz in Paris — and unexpectedly got it back - Yahoo News",
+            "description": null,
+            "url": "https://news.yahoo.com/tourist-lost-800k-diamond-ring-142306448.html",
+            "urlToImage": null,
+            "publishedAt": "2023-12-11T14:23:06Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPVI-TV"
+            },
+            "author": null,
+            "title": "Macy's buyout offer by private investor group Arkhouse Management spurs stock prices for iconic retailer - WPVI-TV",
+            "description": "Shares of Macy's shot up more than 20% in premarket trading Monday on a Wall Street Journal report that a private investor group has made a $5.8 billion offer for the iconic retailer.",
+            "url": "https://6abc.com/macys-buyout-stock-price-arkhouse-management/14166063/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/14166077_AP20136096136672.jpg?w=1600",
+            "publishedAt": "2023-12-11T14:22:25Z",
+            "content": "NEW YORK -- Shares of Macy's soared more than 17% early Monday on a Wall Street Journal report that the iconic 165-year old retailer closely associated with the holiday season might itself be bought.… [+4771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Kristen Wong",
+            "title": "Bills Tight End Had Perfect Line About Taylor Swift After Dramatic Win Over Travis Kelce, Chiefs - Sports Illustrated",
+            "description": "Dalton Kincaid was bummed about missing the chance to meet the pop superstar despite the Bills’ victory on Sunday.",
+            "url": "https://www.si.com/nfl/2023/12/11/bills-dalton-kincaid-perfect-line-taylor-swift-dramatic-win-travis-kelce-chiefs",
+            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAyODE4MTE0MTUxMjYxMTk2/ap23338155085458.jpg",
+            "publishedAt": "2023-12-11T14:20:32Z",
+            "content": "Bills tight end Dalton Kincaid may regret not catching one or two passes thrown his way in Sunday’s 20—17 win over the Chiefs, but the thing he might rue the most? Not noticing Taylor Swift.\r\nSwift w… [+1224 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Anders Hagstrom",
+            "title": "Israel intensifies search for Hamas leadership as terror group threatens to kill remaining hostages - Fox News",
+            "description": "Israeli Defense Forces ramped up attacks on Hamas' remaining strongholds in southern Gaza on Monday. Israel is searching for senior Hamas leadership, specifically Yahya Sinwar. Meanwhile, Hamas has threatened to kill all of the remaining hostages in its custo…",
+            "url": "https://www.foxnews.com/live-news/december-11-israel-hamas-war",
+            "urlToImage": "https://livenews.foxnews.com/images/2023/12/c83496e4beeb41fc1aec86c835e19846.jpg",
+            "publishedAt": "2023-12-11T14:04:31Z",
+            "content": "Teachers in Oakland, California, held a pro-Palestinian \"teach in,\" on Wednesday, which asked elementary school-age children to draw what they think a Zionist leader looks like and define a massacre.… [+922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Liv Ngan",
+            "title": "Alone in the Dark doubles down on its survival horror legacy, for better and worse - Eurogamer.net",
+            "description": "Survival horror fans have been treated in recent years with the revival of classic games in the genre. Resident Evil ha…",
+            "url": "https://www.eurogamer.net/alone-in-the-dark-doubles-down-on-its-survival-horror-legacy-for-better-and-worse",
+            "urlToImage": "https://assetsio.reedpopcdn.com/alone-in-the-dark-david-and-emily-driving-to-derceto-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2023-12-11T14:00:00Z",
+            "content": "Survival horror fans have been treated in recent years with the revival of classic games in the genre. Resident Evil has led the charge, with the likes of Dead Space and Silent Hill following. Now, d… [+7320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Francesca Bacardi",
+            "title": "'Excited' Cardi B confirms Offset breakup as he denies cheating with Chrisean Rock: 'I'm curious for a new life' - Page Six",
+            "description": "“I want to start 2024 fresh, open. I’m curious for a new life, a new beginning,” the “WAP” rapper told her Instagram followers during a livestream.",
+            "url": "https://pagesix.com/2023/12/11/entertainment/cardi-b-confirms-offset-breakup-as-he-denies-cheating-with-chrisean-rock/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/12/73586352.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-12-11T13:50:39Z",
+            "content": "Cardi B confirmed she and Offset have broken up again following allegations of infidelity.\r\nThe “WAP” performer went live on Instagram late Sunday and admitted she does not “think” her now-estranged … [+2314 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Wall Street reckons with 'Never Trump' never happening - POLITICO",
+            "description": "Setting aside Trump’s recent noodling on what he could accomplish in a one-day dictatorship, markets are increasingly wary of how U.S. political disruptions can ripple across the global financial system.",
+            "url": "https://www.politico.com/news/2023/12/11/wall-street-never-trump-00131024",
+            "urlToImage": "https://static.politico.com/f0/be/2e2fcfca454a9edbe4b9b7daf743/https-delivery-gettyimages.com/downloads/1229927638",
+            "publishedAt": "2023-12-11T13:27:07Z",
+            "content": "The risks of a second Trump presidency are incalculable and unpredictable, he said. Of course, Peterffy has previously gone on record saying that he would likely vote for Trump in 2024 if the former … [+5239 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kevin Purdy",
+            "title": "Homey Pro review: A very particular set of home automation skills - Ars Technica",
+            "description": "It's great for a strange combo: beginners and local-only smart home enthusiasts.",
+            "url": "https://arstechnica.com/gadgets/2023/12/homey-pro-review-a-very-particular-set-of-local-home-automation-skills/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/homeypro_night-760x380.jpg",
+            "publishedAt": "2023-12-11T12:30:22Z",
+            "content": "Enlarge/ The Homey Pro, settling in for some quiet network check-ins at dusk.\r\n19\r\nI know there are people who will want to buy the Homey Pro. Ive seen them on social media and in various home automa… [+4900 chars]"
+        }
+    ]
+}
